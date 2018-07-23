@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Quiz app</string>
+    <string name="q1">
+        1 - What is Android ?
+    </string>
+    <string name="q2">
+        2 - Does android support other language than java?
+    </string>
+    <string name="q3">
+        3 - what is the Android application Architecture.
+    </string>
+    <string name="q4">
+        4 - one of theses is the code name of android?
+
+    </string>
+
+    <string name="q5">
+
+        5 - one of theses is not of the advantages of android?
+    </string>
+
+    <string name="q6">
+        6 - Who is the founder of Android?
+    </string>
+
+
+
+    <string name="qa11">Android is an open-source, linux-based operating system that is used in mobiles, tablets, televisions etc.</string>
+    <string name="qa12">Android is an close-source, linux-based operating system that is used in mobiles, tablets, televisions etc.</string>
+    <string name="qa21">No , it does not</string>
+    <string name="qa22">Yes , it does</string>
+
+    <string name="qa31">Services , Intent ,Resource Externalization ,Notification ,Content Providers</string>
+    <string name="qa32">Aestro , Blender ,Cupcake ,Donut ,Eclair ,Froyo </string>
+    <string name="qa41">coffee</string>
+    <string name="qa42">manga</string>
+    <string name="qa43">Lollipop</string>
+
+    <string name="qa51">Supports various technologies</string>
+    <string name="qa52">Platform-dependent</string>
+    <string name="qa53">Supports various technologies</string>
+
+    <string name="qa61">Yes , it does</string>
+    <string name="qa62">No , it does not</string>
+
+    <string name="q7">7 - What are the core building blocks of android?</string>
+    <string name="qa71">Activity</string>
+    <string name="qa72">Intent</string>
+    <string name="qa73">ADB</string>
+
+</resources>
